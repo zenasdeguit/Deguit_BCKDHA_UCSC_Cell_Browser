@@ -38,8 +38,8 @@ The BCKDHA gene encodes the E1 alpha subunit of the mitochondrial branched-chain
 | Number of Cells Analyzed | 2,761 |
 | Visualization | Seurat t-SNE |
 
-**Dataset Collection URL:**  
-https://cells.ucsc.edu/?ds=skeletal-muscle
+**Dataset URL:**  
+https://cells.ucsc.edu/?ds=skeletal-muscle+adult+adult-hindlimb
 
 ### Why was this organ/tissue selected?
 
